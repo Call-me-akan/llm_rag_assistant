@@ -1,6 +1,6 @@
 # 🚀llm_rag_Assistant(基于FastAPI的垂直领域知识问答助手)
 >这是一个基于RAG(Retrieval Augument Generation)技术技术架构的实战项目，旨在构建一个可容器化部署的企业级的AI后端服务。
-##🛠️技术栈
+## 🛠️技术栈
 - **Core：** python3.10 
 - **Web Framework：** FASTAPI+Uvicorn
 - **AI/LLM:** LangChain,OpenAI API
